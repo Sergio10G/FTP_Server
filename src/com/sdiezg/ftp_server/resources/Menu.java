@@ -1,4 +1,4 @@
-package com.campusfp.hitoftp.resources;
+package com.sdiezg.ftp_server.resources;
 
 import java.util.ArrayList;
 import java.util.Arrays;

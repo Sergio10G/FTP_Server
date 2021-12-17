@@ -1,4 +1,4 @@
-package com.campusfp.hitoftp.resources;
+package com.sdiezg.ftp_server.resources;
 
 import java.io.DataInputStream;
 import java.io.DataOutputStream;
@@ -6,7 +6,7 @@ import java.net.Socket;
 import java.util.ArrayList;
 import java.util.List;
 
-import com.campusfp.hitoftp.resources.Colors.EColors;
+import com.sdiezg.ftp_server.resources.Colors.EColors;
 
 public class FileReceiver extends Thread {
 	

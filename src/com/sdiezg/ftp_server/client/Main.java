@@ -1,16 +1,16 @@
-package com.campusfp.hitoftp.client;
+package com.sdiezg.ftp_server.client;
 
 import java.io.DataInputStream;
 import java.io.DataOutputStream;
 import java.net.Socket;
 import java.util.Scanner;
 
-import com.campusfp.hitoftp.resources.Colors;
-import com.campusfp.hitoftp.resources.FileManager;
-import com.campusfp.hitoftp.resources.FileReceiver;
-import com.campusfp.hitoftp.resources.FileSender;
-import com.campusfp.hitoftp.resources.Menu;
-import com.campusfp.hitoftp.resources.Colors.EColors;
+import com.sdiezg.ftp_server.resources.Colors;
+import com.sdiezg.ftp_server.resources.FileManager;
+import com.sdiezg.ftp_server.resources.FileReceiver;
+import com.sdiezg.ftp_server.resources.FileSender;
+import com.sdiezg.ftp_server.resources.Menu;
+import com.sdiezg.ftp_server.resources.Colors.EColors;
 
 public class Main {
 	

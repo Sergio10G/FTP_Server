@@ -1,12 +1,12 @@
-package com.campusfp.hitoftp.server;
+package com.sdiezg.ftp_server.server;
 
 import java.io.IOException;
 import java.net.ServerSocket;
 import java.net.Socket;
 
-import com.campusfp.hitoftp.resources.Colors;
-import com.campusfp.hitoftp.resources.FileManager;
-import com.campusfp.hitoftp.resources.Colors.EColors;
+import com.sdiezg.ftp_server.resources.Colors;
+import com.sdiezg.ftp_server.resources.FileManager;
+import com.sdiezg.ftp_server.resources.Colors.EColors;
 
 public class Main {
 

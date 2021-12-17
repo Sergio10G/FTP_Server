@@ -1,4 +1,4 @@
-package com.campusfp.hitoftp.resources;
+package com.sdiezg.ftp_server.resources;
 
 import java.io.BufferedReader;
 import java.io.DataInputStream;
@@ -7,7 +7,7 @@ import java.io.File;
 import java.io.FileReader;
 import java.net.Socket;
 
-import com.campusfp.hitoftp.resources.Colors.EColors;
+import com.sdiezg.ftp_server.resources.Colors.EColors;
 
 public class FileSender extends Thread {
 	private final int BUF_SIZE = 16000;
