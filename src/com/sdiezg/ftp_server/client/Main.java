@@ -28,7 +28,7 @@ public class Main {
 		ip = sc.nextLine();
 		if (ip.equals(""))
 			ip = "127.0.0.1";
-			while (true) {
+		while (true) {
 			Colors.printlnString(EColors.YELLOW, "Introduce el puerto (default 5111):");
 			String portInput = sc.nextLine();
 			try {
